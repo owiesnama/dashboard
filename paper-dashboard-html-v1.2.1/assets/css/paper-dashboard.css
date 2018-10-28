@@ -331,6 +331,29 @@ hr {
   height: 100vh;
 }
 
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6,
+p,
+.navbar,
+.brand,
+a,
+.td-name,
+td,
+.btn,
+.form-control {
+  font-family: 'Cairo', sans-serif;
+}
+
 .sidebar {
   position: fixed;
   top: 0;
